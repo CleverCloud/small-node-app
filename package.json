@@ -1,0 +1,9 @@
+{
+  "name": "clever-small-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "^14"
+  }
+}
